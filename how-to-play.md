@@ -1,5 +1,5 @@
 # How to get the game?
-open any internet browser, search the exact url `https://cabbagetic-2-0.github.io/asteroids-game/` or just tap [PLAY](https://cabbagetic-2-0.github.io/asteroids-game/) directly from here.
+open any internet browser, search the exact url `https://cabbagetic.github.io/asteroids-game/` or just tap [PLAY](https://cabbagetic.github.io/asteroids-game/) directly from here.
 
 # How to play:
 
